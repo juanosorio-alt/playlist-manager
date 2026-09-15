@@ -39,7 +39,7 @@ class Playlist:
     def add(self, title, artist):
         title, artist = title.strip(), artist.strip()
         if not title or not artist:
-            raise ValueError('Escribe el título y el artista.')
+            raise ValueError('Enter both a title and an artist.')
         node = Node(Track(uuid4().hex, title, artist))
         node.prev = self.tail
         if self.tail is None:
