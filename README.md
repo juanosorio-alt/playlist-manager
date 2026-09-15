@@ -3,7 +3,7 @@
 Aplicación Python con Streamlit y una lista doblemente enlazada propia.
 
 ## Aplicación publicada
-Pendiente de despliegue. Reemplaza esta línea con la URL real de Streamlit Community Cloud antes de entregar.
+[Abre Playlist Manager](https://playlist-manager-mxqymdcwmqutxzfla6vuz2.streamlit.app)
 
 ## Ejecutar en PyCharm
 Abre esta carpeta como un proyecto separado y selecciona Python 3.10 o posterior. En la terminal de PyCharm ejecuta:
